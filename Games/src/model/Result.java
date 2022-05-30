@@ -1,4 +1,4 @@
-package games.model;
+package src.model;
 
 public enum Result {
 	WON, LOST, DRAW
